@@ -1,0 +1,61 @@
+.mycontent{
+  padding: 20px;
+  border-radius: 20px;
+  color: blue;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  background-color: black;
+  margin: 0;
+}
+
+
+#note {
+  position: absolute;
+
+  left: 0;
+  right: 0;
+  bottom: 20px;
+  margin: auto;
+  text-align: center;
+  user-select: none;
+  font-family: Arial;
+}
+
+.mainnav {
+  background-color: black;
+  margin: 20px;
+  color: black;
+  border-bottom: 5px solid #6666ff;
+}
+.options {
+    background-color: #6666ff;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 120px;
+    text-align: center;
+    border-radius: 25px;
+}
+.groupItem {
+    border: 2px solid #9933ff;
+    margin: 15px;
+    border-radius: 8px;
+}
+
+.postBody {
+    background-color: black;
+    padding : 25px;
+    margin: 15px;
+    border-radius: 15px;
+    margin-right: 25px;
+    border: 2px solid #9933ff;
+}
+.groupDescription {
+    color: #6666ff;
+}
