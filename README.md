@@ -1,6 +1,8 @@
 # StarSocial
 - Social Networking Web App built using Django as backend.
-- People can create groups related to different topics, can join groups and make share their thoughts.
+- People can create groups related to different topics, can join and leave groups.
+- Create and delete posts in a corresponding group.
+- Shows the count of no of people and posts in group.
 <br />
 
 # SnapShots
